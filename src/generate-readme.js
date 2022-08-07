@@ -4,9 +4,9 @@ module.exports = readMeData => {
     
     ## ${readMeData.projectDescription}
     
-    ## ${readMEData.projectLanguage}
+    ## ${readMeData.projectLanguage}
     
-    ## ${readmeData.projectContributors}
+    ## ${readMeData.projectContributors}
     
     ## ${readMeData.projectLink}
     `
