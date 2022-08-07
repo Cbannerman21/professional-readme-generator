@@ -2,7 +2,7 @@
 
 ## A node.js readme generator
 
-## undefined
+## JavaScript
 
 ## Chris Bannerman
 
